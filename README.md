@@ -1,1 +1,1 @@
-# trainning.html
+# training.html
